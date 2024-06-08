@@ -493,24 +493,15 @@ https://gakko.pjwstk.edu.pl/edux/7605
 
 https://github.com/TAK-PJATK/Test4.OnTheAssembler.PrimaryMemory
 
-Test 1: March 22 - April 3
-Test 2: April 5 - 12
-Test 3: April 19 - 26
-**Test 4: May 10 - 17**
-Test 5: May 24 - 31
-Test 6: June 7 - 14
-Re-take test: June 21 - 24
-
 Test 4: May 10 - 17
+
 May 16, 2024 3:15 PM
 
 On the assembler. Primary memory. Test 4 Questions 1-5 (TAK Computer Techniques and Architecture)
 
-Start date and time:
-16.05.2024 15:20
+Start date and time: 16.05.2024 15:20
 
-End date and time:
-16.05.2024 15:50
+End date and time: 16.05.2024 15:50
 
 
 #### Question 1
@@ -825,43 +816,18 @@ Execution of the code:
 
 Therefore, the final value of the register BX will be **17**.
 
-## Test 5: May 24 - 31
+## Test 5 Motherboard. Non-volatile Storage. ROM and Booting. May 24 - 31
+
 May 31, 2024 11:15 PM
 
-Motherboard. Non-volatile Storage. ROM and Booting. Test 5 Questions 1-5 (TAK Computer Techniques and Architecture)
 https://gakko.pjwstk.edu.pl/edux/7605
+
+https://gakko.pjwstk.edu.pl/edux/7605/tests/6490/result/283950
 
 https://github.com/TAK-PJATK/Test5.Motherboard.NonVolatileStorage.ROMandBooting
 
-Test 5: May 24 - 31
-
-Materials for Test 5
-Motherboard
-motherboard.pdf | 138 KB | 10.05.2024 21:49
-Non-volatile storage
-non-volatile-storage.pdf | 1 MB | 10.05.2024 21:50
-ROM and booting
-rom-and-booting.pdf | 93 KB | 10.05.2024 21:49
-
-
-General test rules
-Start date and time:
-24.05.2024 00:00
-End date and time:
-31.05.2024 23:59
-Time to solve the test:
-00:30:00
-
-Number of questions:
-5
-
-
-Motherboard. Non-volatile Storage. ROM and Booting. Test 5 Questions 1-5 (TAK Computer Techniques and Architecture)
-https://gakko.pjwstk.edu.pl/edux/7605
-
-https://github.com/TAK-PJATK/Test5.Motherboard.NonVolatileStorage.ROMandBooting
-
-Test 5 Questions 1-5 (TAK Computer Techniques and Architecture)
+Start date and time: 24.05.2024 00:00
+End date and time: 31.05.2024 23:59
 
 Test 1: March 22 - April 3
 Test 2: April 5 - 12
@@ -874,44 +840,13 @@ Re-take test: June 21 - 24
 Test 5: May 24 - 31
 May 24, 2024 5:30 PM
 
-Materials for Test 5
-Motherboard
-motherboard.pdf | 138 KB | 10.05.2024 21:49
-Non-volatile storage
-non-volatile-storage.pdf | 1 MB | 10.05.2024 21:50
-ROM and booting
-rom-and-booting.pdf | 93 KB | 10.05.2024 21:49
-
-
-General test rules
-Start date and time:
-24.05.2024 00:00
-End date and time:
-31.05.2024 23:59
-Time to solve the test:
-00:30:00
-
-Number of questions:
-5
-
-Scoring:
-Big points - Points will be given only when all of the answers will be marked correctly. In case of selection of any incorrect answer 0 points will be scored.
-Result visibility:
-After solving the test you'll not be able to see the results
-Answers visibility:
-After solving the test you'll not be able to see the answers
-Reopening:
-Test may be closed and opened again before the deadline
-Multiple solving:
-You have only one attempt
-
 80% 4.00/5.00
 44.59% This many people had worse score than you
 55.41% This many people had the same score as you
 0% This many people had better score than you
 
 Question 1
-Question 1
+
 The POST self-check may help detect issues related to:
 	
 software incompatible with the processor
@@ -935,17 +870,20 @@ Software incompatible with the processor: Incorrect. POST checks hardware compon
 The processor: Correct. POST verifies the correct functioning of the CPU.
 RAM memory: Correct. POST checks the system's RAM to ensure it is functioning properly.
 
-Question 2
+#### Question 2
+
 Which of the following procedures are available to the user and may lead to speeding up non-volatile memory?
 	
-replacing an HDD drive with an SSD drive
-enabling perpendicular recording
-enabling SRAM mode
+[x] replacing an HDD drive with an SSD drive  
+
+[] enabling perpendicular recording  
+
+[] enabling SRAM mode
 
 Which of the following procedures are available to the user and may lead to speeding up non-volatile memory?
 
-Replacing an HDD drive with an SSD drive
-Correct
+**Replacing an HDD drive with an SSD drive
+****Correct**
 
 Replacing an HDD (Hard Disk Drive) with an SSD (Solid-State Drive) is one of the most effective ways to speed up non-volatile memory. SSDs have much faster read/write speeds compared to HDDs because they do not have moving parts. This upgrade is easily accessible to users and can significantly improve the overall system performance.
 
@@ -962,24 +900,27 @@ The correct procedure that is available to the user and can lead to speeding up 
 Replacing an HDD drive with an SSD drive
 The other options, "enabling perpendicular recording" and "enabling SRAM mode," are either not user-configurable or not applicable to non-volatile memory.
 
-Question 3
+#### Question 3
+
 Which of the following sentences are correct?
 
-the chipset is responsible e.g. for communication between the processor and RAM
-in modern computers, the northbridge is typically a part of the processor
-the newest buses allow transmitting the full content of a typical HDD drive in milliseconds
+[] the chipset is responsible e.g. for communication between the processor and RAM
+
+[] in modern computers, the northbridge is typically a part of the processor
+
+[] the newest buses allow transmitting the full content of a typical HDD drive in milliseconds
 
 Let's discuss each statement to determine which ones are correct:
 
-the answer no. 1 was graded as incorrected by the lecturer 
+**the answer no. 1** was graded as **incorrect** by the lecturer 
 
-1. The chipset is responsible e.g. for communication between the processor and RAM
+**1. The chipset is responsible e.g. for communication between the processor and RAM
+**
+**Correct**. The chipset in a computer manages communications between the processor, RAM, storage devices, and other peripherals. The northbridge, which is part of the chipset, traditionally handled communication between the CPU, RAM, and graphics controller. In modern computers, the roles of the northbridge and southbridge have largely been integrated into the processor and a single chipset.
 
-Correct. The chipset in a computer manages communications between the processor, RAM, storage devices, and other peripherals. The northbridge, which is part of the chipset, traditionally handled communication between the CPU, RAM, and graphics controller. In modern computers, the roles of the northbridge and southbridge have largely been integrated into the processor and a single chipset.
-
-2. In modern computers, the northbridge is typically a part of the processor
-
-Correct. In modern computers, especially with recent Intel and AMD architectures, much of the functionality that was historically part of the northbridge has been integrated into the processor itself. This integration improves performance and reduces latency between the CPU and RAM.
+**2. In modern computers, the northbridge is typically a part of the processor
+**
+**Correct**. In modern computers, especially with recent Intel and AMD architectures, much of the functionality that was historically part of the northbridge has been integrated into the processor itself. This integration improves performance and reduces latency between the CPU and RAM.
 
 3. The newest buses allow transmitting the full content of a typical HDD drive in milliseconds
 
@@ -990,81 +931,74 @@ The chipset is responsible e.g. for communication between the processor and RAM
 In modern computers, the northbridge is typically a part of the processor
 
 The statement "the newest buses allow transmitting the full content of a typical HDD drive in milliseconds" is incorrect because even the fastest buses can't transmit terabytes of data in such a short time.
-Question 4
+
+#### Question 4
+
 Flash EEPROM is a type of memory:
 
-in which the user may not make any modifications
-which may be programmed e.g. by connecting to a dedicated device	
-used in the BIOS die
+[] in which the user may not make any modifications
+
+[] which may be programmed e.g. by connecting to a dedicated device	
+
+[] used in the BIOS die
 
 1. In which the user may not make any modifications
+
 Incorrect:
+
 Flash EEPROM is specifically designed to be programmable and reprogrammable. Users can modify its contents by writing new data to it. This is a key characteristic that distinguishes Flash EEPROM from traditional ROM (Read-Only Memory), which cannot be modified once programmed. Thus, the statement is incorrect as users can indeed make modifications to Flash EEPROM.
 
-2. Which may be programmed e.g. by connecting to a dedicated device
+**2. Which may be programmed e.g. by connecting to a dedicated device
+**
 Correct
+
 Flash EEPROM can be programmed or reprogrammed using dedicated devices. This is commonly done for tasks such as updating firmware or BIOS in embedded systems and computers. Dedicated programming devices or software utilities can be used to erase and write new data to the Flash EEPROM, making this statement accurate.
 
-3. Used in the BIOS die
+**3. Used in the BIOS die
+**
 Correct
+
 Flash EEPROM is widely used to store BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) firmware in computers. This non-volatile memory retains crucial system startup information and firmware settings even when the computer is powered off. Using Flash EEPROM for the BIOS/UEFI allows the system to load the initial software needed to boot up and operate properly, confirming that the statement is correct.
 
-Question 5
+#### Question 5
 
 The 8b/10b encoding:
 
-allows to transmit more data than the nominal bus capacity would suggest
-sometimes allows detecting an error in data transmission
-is used as a subsequent step after the 128b/130b encoding
+[] allows to transmit more data than the nominal bus capacity would suggest
+
+[x] sometimes allows detecting an error in data transmission
+
+[] is used as a subsequent step after the 128b/130b encoding
 
 1. Allows to transmit more data than the nominal bus capacity would suggest
+
 Incorrect
 
 The 8b/10b encoding actually reduces the amount of data that can be transmitted compared to the nominal bus capacity because it increases the number of bits transmitted. For every 8 bits of actual data, 10 bits are transmitted, resulting in a 20% overhead. This encoding scheme is used to ensure certain properties in the data stream, such as DC balance and sufficient signal transitions for clock recovery, not for increasing data capacity.
 
 2. Sometimes allows detecting an error in data transmission
+   
 Correct
 
 One additional benefit of the 8b/10b encoding is that it can help detect errors in data transmission. The encoding ensures that invalid 10-bit codes can be detected, which indicates that an error has occurred. This error-detection capability is a crucial feature of the 8b/10b encoding.
 
 3. Is used as a subsequent step after the 128b/130b encoding
+
 Incorrect
 
 The 8b/10b encoding is not used as a subsequent step after the 128b/130b encoding. Both are different encoding schemes used independently in various serial communication protocols. The 128b/130b encoding is a more recent development that improves efficiency by only adding a minimal overhead of 2 bits for every 128 bits of data, compared to the 8b/10b encoding's 20% overhead.
 
 The correct statement about the 8b/10b encoding is:
+
 Sometimes allows detecting an error in data transmission
 
 The statements "allows to transmit more data than the nominal bus capacity would suggest" and "is used as a subsequent step after the 128b/130b encoding" are incorrect. The 8b/10b encoding actually introduces a 20% overhead in data transmission and is not used in conjunction with the 128b/130b encoding as a subsequent step.
 
 
-
-Scoring:
-Big points - Points will be given only when all of the answers will be marked correctly. In case of selection of any incorrect answer 0 points will be scored.
-Result visibility:
-After solving the test you'll not be able to see the results
-Answers visibility:
-After solving the test you'll not be able to see the answers
-Reopening:
-Test may be closed and opened again before the deadline
-Multiple solving:
-You have only one attempt
-Question 1
-
-Question 2
-
-Question 3
-
-Question 4
-
-Question 5
-
-
-
-
 ## Test 6 Distributed Systems and Graphics 
 
 Test 6. Distributed Systems & Graphics. Questions 1-5 (TAK Computer Techniques and Architecture)
+
 https://gakko.pjwstk.edu.pl/edux/7605
 
 https://github.com/TAK-PJATK/Test5.Motherboard.NonVolatileStorage.ROMandBooting
@@ -1084,15 +1018,19 @@ End date and time:
 Integrated graphics cards:
 
 [] are dedicated for computers oriented towards computing tasks
-[] are physically a part of the processor
-[] typically use less electric power compared to cards which are a separate module
+
+[x] are physically a part of the processor
+
+[x] typically use less electric power compared to cards which are a separate module
 
 #### Question 2
 
 The UPS system can:
 
 [] separate a device from other devices in a wireless network
-[] secure computer modules in case of disruption of voltage levels
+
+[x] secure computer modules in case of disruption of voltage levels
+
 [] secure a municipal electric network from a failure
 
 #### Question 3
@@ -1100,26 +1038,33 @@ The UPS system can:
 Horizontal scaling:
 
 [] leads to less computing units in a distributed system
-[] can increase problems related to communication between the nodes of a system
-[] is a way to increase the computing power of a distributed system
+
+[x] can increase problems related to communication between the nodes of a system
+
+[x] is a way to increase the computing power of a distributed system
 
 #### Question 4
 
 Services in the cloud:
 
 [] require a serverless architecture
-[] can mean that only access to servers if offered, without any software
-[] can mean that a programmer is given a developer environment
+
+[x] can mean that only access to servers if offered, without any software
+
+[x] can mean that a programmer is given a developer environment
 
 #### Question 5
 
 The color having RGB code C1BEC7 is approximately:
 
 [] red
+
 [] blue
-[] light gray
+
+[x] light gray
 
 ### Discussion
+
 #### ChatGPT-4o
 
 #### Question 1
@@ -1154,7 +1099,7 @@ Horizontal scaling:
 - is a way to increase the computing power of a distributed system
   - Correct. Horizontal scaling increases computing power by adding more nodes to the system.
 
-Question 4
+#### Question 4
 
 Services in the cloud:
 - require a serverless architecture
